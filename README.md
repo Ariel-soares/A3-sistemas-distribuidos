@@ -18,5 +18,7 @@ Ariel Soares Franco - 12722210594.
 # Instruções para instalação:
 
 1º - Baixar o arquivo A3_UDP.rar do github.
+
 2º - Descompactar o Arquivo
+
 3º - Executar o programa referente ao 'servidor' antes do 'cliente'
