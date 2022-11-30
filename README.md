@@ -22,3 +22,5 @@ Ariel Soares Franco - 12722210594.
 2º - Descompactar o Arquivo
 
 3º - Executar o programa referente ao 'servidor' antes do 'cliente'
+
+4º - Inserir apenas informações pedidas, e válidas.
